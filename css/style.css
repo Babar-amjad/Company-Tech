@@ -1,0 +1,154 @@
+#heading{
+    font-size: 60px;
+    
+}
+@media only screen and (max-width:590){
+    #heading{
+        font-size: 50px;
+        
+    }
+}
+#Service-left{
+    padding-left: 60px !important;
+}
+#Service-right{
+    padding-right: 20px!important;
+}
+#container-main{
+    background-image: url(../images/dogan-alpaslan-demir-7naJY88kqrY-unsplash.jpg);
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100% !important;
+    padding-top: 50px !important;
+    padding-bottom: 60px !important;
+}
+
+#heart{
+    font-size: 40px;
+}
+.span-1{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px !important;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+}
+#bank{
+    font-size: 40px;
+}
+.span-2{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px !important;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+}
+#bandaid{
+    font-size: 40px !important;
+}
+.span-3{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px !important;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+}
+#text-p{
+    font-size: 12px;
+}
+#blog{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-top: 50px !important;
+    padding-bottom: 40px !important;
+}
+#blog-detials{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#date-1{
+    font-size: 20px;
+    color:blue;
+}
+#date-2{
+    font-size: 20px;
+    color:blue;
+}
+#date-3{
+    font-size: 20px;
+    color:blue;
+}
+#blog-detials-1{
+
+    border: 2px solid black;
+    padding-bottom: 3px;
+}
+#blog-detials-2{
+
+    border: 2px solid black;
+    padding-bottom: 30px;
+}
+.try{
+    border: 1px solid black;
+    
+}
+#blog-detials h1{
+    padding-top: 10px !important;
+    padding-bottom: 5px !important;
+}
+#blog-detials h2{
+    padding-top: 10px!important;
+    padding-bottom: 5px!important;
+}
+#blog-detials h3{
+    padding-top: 10px!important;
+    padding-bottom: 5px!important;
+}
+#blog-detials h1 p{
+    padding-top: 10px !important;
+    padding-bottom: 5px !important;
+}
+#footer{
+    padding-top: 70px !important;
+    padding-bottom: 80px !important;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+#footer-form{
+    margin-top: 10PX;
+    margin-bottom: 10PX;
+}
+#footer-search-box{
+    background-color: orange;
+    color: white;
+    border: 0;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    position: relative;
+    left: 10px;
+
+}
+#footer-search-btn{
+background-color: blue;
+color: white;
+border: 0;
+border-radius: 0;
+padding: 10px 10px;
+}
+.social-icon{
+    font-size: 25px;
+    padding-left: 5px;
+}
+@media only screen and (max-width:1110px){
+    #footer-search-box{max-width: 200px;}
+}
+@media only screen and (max-width:810px){
+    #footer-search-box{max-width: 120px;}
+}
